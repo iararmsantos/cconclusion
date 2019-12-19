@@ -1,0 +1,8 @@
+﻿  Main.c
+C:\Users\Iara Santos\source\repos\BigBigProject\BigBigProject\Main.c(71,42): warning C4133: 'function': incompatible types - from 'char [30]' to 's *'
+C:\Users\Iara Santos\source\repos\BigBigProject\BigBigProject\Main.c(76,42): warning C4133: 'function': incompatible types - from 'char [30]' to 's *'
+C:\Users\Iara Santos\source\repos\BigBigProject\BigBigProject\Main.c(81,42): warning C4133: 'function': incompatible types - from 'char [30]' to 's *'
+C:\Users\Iara Santos\source\repos\BigBigProject\BigBigProject\Main.c(86,42): warning C4133: 'function': incompatible types - from 'char [30]' to 's *'
+C:\Users\Iara Santos\source\repos\BigBigProject\BigBigProject\Main.c(91,42): warning C4133: 'function': incompatible types - from 'char [30]' to 's *'
+C:\Users\Iara Santos\source\repos\BigBigProject\BigBigProject\Main.c(192,10): warning C4013: 'gets' undefined; assuming extern returning int
+  BigBigProject.vcxproj -> C:\Users\Iara Santos\source\repos\BigBigProject\Debug\BigBigProject.exe
